@@ -1,0 +1,105 @@
+body {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+header {
+  background-color: #444;
+  height: 125px;
+}
+
+nav {
+  width: 960px;
+  margin: 0px auto;
+  padding: 50px;
+}
+
+header img {
+  float: left;
+  margin-top: 10px;
+  margin-left: 100px;
+}
+
+header a {
+  margin-top: 40px;
+  margin-right: 75px;
+  margin-left: 75px;
+  text-decoration: none;
+  font-size: 20px;
+  color: #888;
+}
+
+main {
+  width: 960px;
+  margin: 20px auto;
+}
+
+h2 {
+  font-size: 36px;
+  text-align: center;
+  text-decoration: underline;
+  margin-bottom: 10px;
+}
+
+#top {
+  margin-bottom: 30px;
+}
+
+#top img {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+  margin-left: 10px;
+}
+
+#top p {
+  float: left;
+  margin-left: 10px;
+}
+
+#bottom {
+  margin-top: 40px;
+  margin-right: 0px auto;
+  margin-bottom: 40px;
+  margin-left: 0px auto;
+}
+
+#right-side {
+  float: right;
+  margin: 10px;
+}
+
+#left-side {
+  float: left;
+  margin: 10px;
+}
+
+section {
+  width: 960px;
+  margin: 0px auto;
+  display: inline-block;
+}
+
+h3 {
+  font-size: 18px;
+}
+
+.image-block {
+  text-align: center;
+  float: left;
+  margin-right: 40px;
+  margin-left: 30px;
+}
+
+.image-block img {
+  display: inline-block;
+}
+
+footer {
+  height: 125px;
+  background-color: #444;
+}
+
+footer p {
+  float: right;
+  color: #888;
+}
